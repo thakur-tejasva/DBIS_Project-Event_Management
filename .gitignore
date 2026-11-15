@@ -1,2 +1,6 @@
 /Microsoft/
 /tests/
+# Ignore all .env files
+.env
+.env.*
+*.env
